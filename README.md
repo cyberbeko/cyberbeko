@@ -9,7 +9,7 @@
 
 <h2>📄Certifications</h2>
 
-- [Google Cybersecurity Program](https://postimg.cc/dkXKZkPx)
+- [Google Cybersecurity Program](https://i.imgur.com/QxSc2VB.png)
 
 <h2>🎥 My YouTube Videos</h2>
 
