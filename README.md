@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/berkayyildirim44/" target="_blank">
     <img src="https://i.imgur.com/AmJua6b.png" width="22px" alt="LinkedIn logo">
   </a>
-  <a href="https://twitter.com/https://x.com/berkayildirimx" target="_blank">
+  <a href="https://x.com/berkayildirimx" target="_blank">
     <img src="https://i.imgur.com/a1V38f9.png" width="22px" alt="Twitter logo">
   </a>
 </p>
