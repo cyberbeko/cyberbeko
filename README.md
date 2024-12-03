@@ -10,7 +10,7 @@
 <h2>📄Certifications</h2>
 
 - [Google Cybersecurity Program](https://i.imgur.com/QxSc2VB.png)
-- [Google Cybersecurity Program](https://i.imgur.com/KVFDQj2.png)
+- [HIPAA](https://i.imgur.com/KVFDQj2.png)
 
 <h2>🎥 My YouTube Videos</h2>
 
