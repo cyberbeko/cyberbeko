@@ -18,10 +18,14 @@
 
 <h2> 🖐🏻 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.youtube.com/@BerkayYildirim-BY" target="_blank">
+  <img src="https://i.imgur.com/npm9IOb.png" width="22px" alt="YouTube logo">
+</a>
 
-[Twitter]: https://twitter.com/https://x.com/berkayildirimx
-[YouTube]: https://www.youtube.com/@BerkayYildirim-BY/videos
-[Linkedin]: https://www.linkedin.com/in/berkayyildirim44/
+<a href="https://www.linkedin.com/in/berkayyildirim44/" target="_blank">
+    <img src="https://i.imgur.com/AmJua6b.png" width="22px" alt="LinkedIn logo">
+  </a>
+  <a href="https://twitter.com/https://x.com/berkayildirimx" target="_blank">
+    <img src="https://i.imgur.com/a1V38f9.png" width="22px" alt="Twitter logo">
+  </a>
+</p>
