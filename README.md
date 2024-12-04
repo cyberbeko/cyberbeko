@@ -2,8 +2,8 @@
 
 <h2>🧑🏻‍💻My Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+- <b>Bash</b>
+  - [Secure DiskWipe: External Drive Data Erasure](https://github.com/cyberbeko/disk_sanitization.git)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]()
 
