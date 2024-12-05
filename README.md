@@ -1,21 +1,34 @@
+<h1>Hey, I'm Berkay! <br/><a href="https://github.com/cyberbeko">Junior SOC Analyst</a>, <a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Threat Analysis</a>, <a href="https://www.youtube.com/@BerkayYildirim-BY">YouTuber</a></h1>
 ## SQL-Injection-XSS-Protection-WAF 🛡️
 A simple, educational Web Application Firewall (WAF) built with Flask, designed to block common web vulnerabilities such as SQL Injection and Cross-Site Scripting (XSS) attacks. This project serves as a foundational example of how to secure a Flask-based web application by filtering malicious input in HTTP requests (GET and POST). It is intended for learning purposes and should not be used in production environments without further security measures.
 
+<h2>🧑🏻‍💻My Cybersecurity Projects:</h2>
 <h1>Berkays_WAF🧑🏻‍💻</h1>
 
+- <b>Bash</b>
+  - [Secure DiskWipe: External Drive Data Erasure](https://github.com/cyberbeko/disk_sanitization.git)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]()
  ### [YouTube Demonstration](https://www.youtube.com/@BerkayYildirim-BY)
 
+<h2>📄Certifications</h2>
 <h2>Description</h2>
 The main goal of this project is to provide a basic Web Application Firewall (WAF) using Flask to help block common attacks such as SQL Injection and Cross-Site Scripting (XSS). This simple WAF serves as an introductory example for developers who want to understand how WAFs function and how they can be implemented in a web application. The project demonstrates how to inspect HTTP requests for malicious patterns and return a 403 Forbidden response when suspicious activity is detected.
 
+- [Google Cybersecurity Program](https://i.imgur.com/QxSc2VB.png)
+- [HIPAA](https://i.imgur.com/KVFDQj2.png)
 ## Programming Language💻
 - **Python** (The primary language used for this project.The WAF is built using Flask, which is a web framework for Python.)
 
+<h2>🎥 My YouTube Videos</h2>
 ## Utilities Used 💼
 - **flask**: A lightweight web framework for Python, used to build the web application and the Web Application Firewall (WAF). Used for routing, handling HTTP requests, and building a simple web application.
 
+- [Cybersecurity Starting From Zero 2025](https://youtu.be/3Br7dL2BIbE?si=07l3-KORnNeuhbgd)
+- [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx)
 - **Flask Middleware**: The custom middleware built into the Flask app to intercept and filter incoming HTTP requests (both GET and POST), blocking patterns associated with SQL Injection and XSS attacks.
 
+<h2> 🖐🏻 Connect with me</h2>
 - **Python Standard Libraries**:
 jsonify: A Flask utility to return JSON responses, which is used to send the "Blocked by WAF" message.
 request: A Flask object used to access incoming HTTP request data (query strings, body data).
@@ -92,7 +105,16 @@ To demonstrate the basic concepts of a Web Application Firewall (WAF) using Flas
   
 - In **production environments**, be sure to use a proper **WSGI server** like **Gunicorn** or **uWSGI** to run Flask apps securely and efficiently.
 
+<a href="https://www.youtube.com/@BerkayYildirim-BY" target="_blank">
+  <img src="https://i.imgur.com/npm9IOb.png" width="22px" alt="YouTube logo">
+</a>
 
+<a href="https://www.linkedin.com/in/berkayyildirim44/" target="_blank">
+    <img src="https://i.imgur.com/AmJua6b.png" width="22px" alt="LinkedIn logo">
+  </a>
+  <a href="https://x.com/berkayildirimx" target="_blank">
+    <img src="https://i.imgur.com/a1V38f9.png" width="22px" alt="Twitter logo">
+  </a>
 </p>
 
 <!--
