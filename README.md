@@ -18,8 +18,8 @@
 <h2>🎥 My YouTube Videos</h2>
 
 - [Cybersecurity Starting From Zero 2025](https://youtu.be/3Br7dL2BIbE?si=07l3-KORnNeuhbgd)
-- [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx)
-
+- [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx) 
+- [Ethical Hack: Keylogger Project](https://youtu.be/4kLb7yub7fU)
 <h2> 🖐🏻 Connect with me</h2>
 
 <a href="https://www.youtube.com/@BerkayYildirim-BY" target="_blank">
