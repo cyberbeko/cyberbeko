@@ -1,4 +1,4 @@
-<h1>Hey, I'm Berkay! <br/><a href="https://github.com/cyberbeko">Junior SOC Analyst</a>, <a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Threat Analysis</a>, <a href="https://www.youtube.com/@BerkayYildirim-BY">YouTuber</a></h1>
+<h1>Hey, I'm Berkay! <br/><a href="https://github.com/cyberbeko">JApplication Technician</a>, <a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Content Creator</a>, <a href="https://www.youtube.com/@BerkayYildirim-BY">YouTuber</a></h1>
 <h2>🧑🏻‍💻My Cybersecurity Projects:</h2>
 
 - <b>Python</b>
