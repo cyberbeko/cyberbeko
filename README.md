@@ -19,7 +19,7 @@
 <h2>🎥 My YouTube Videos</h2>
 
 - [HOW I created HACKING lab setup, behind scenes.](https://youtu.be/W_J2TSroKSA?si=pcqRvGA0113aTZkV)
-- [Cybersecurity Starting From Zero 2025](https://youtu.be/3Br7dL2BIbE?si=07l3-KORnNeuhbgd)
+- [Cybersecurity Beginner 2025](https://youtu.be/3Br7dL2BIbE?si=07l3-KORnNeuhbgd)
 - [Ethical Hack: Keylogger Project](https://youtu.be/4kLb7yub7fU)
 - [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx)
 
