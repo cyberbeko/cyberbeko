@@ -3,11 +3,11 @@
 
 - <b>DoS Attack</b>
   - [WiFi-DoS-Attack-Cybersecurity-Education](https://github.com/cyberbeko/WiFi-DoS-Attack-Cybersecurity-Education.git)
-- <b>Python</b>
+- <b>Keylogger with Python</b>
   - [Keylogger-Cybersecurity-Education](https://github.com/cyberbeko/keylogger-cybersecurity-education.git)
-- <b>Python</b>
+- <b>SQL Injection with Python</b>
   - [SQL-Injection-XSS-Protection-WAF](https://github.com/cyberbeko/SQL-Injection-XSS-Protection-WAF.git)
-- <b>Bash</b>
+- <b>Secure DiskWipe with Bash</b>
   - [Secure DiskWipe: External Drive Data Erasure](https://github.com/cyberbeko/disk_sanitization.git)
 
 
