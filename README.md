@@ -11,15 +11,18 @@
 
 <h2>📄Certifications</h2>
 
+- [Comptia Security+](https://imgur.com/4k5kODW)
 - [Google Cybersecurity Program](https://i.imgur.com/QxSc2VB.png)
 - [HIPAA](https://i.imgur.com/KVFDQj2.png)
 - [FEMA National Incident Management System(NIMS): ICS-100, IS-700.b](https://i.imgur.com/cQgeVQZ.png)
 
 <h2>🎥 My YouTube Videos</h2>
 
+- [HOW I created HACKING lab setup, behind scenes.](https://youtu.be/W_J2TSroKSA?si=pcqRvGA0113aTZkV)
 - [Cybersecurity Starting From Zero 2025](https://youtu.be/3Br7dL2BIbE?si=07l3-KORnNeuhbgd)
 - [Ethical Hack: Keylogger Project](https://youtu.be/4kLb7yub7fU)
-- [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx) 
+- [Daily Life](https://youtu.be/lgzWLmlhG2Y?si=JjVgxScQY1-nOCjx)
+
 <h2> 🖐🏻 Connect with me</h2>
 
 <a href="https://www.youtube.com/@BerkayYildirim-BY" target="_blank">
