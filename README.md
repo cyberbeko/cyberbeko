@@ -29,12 +29,7 @@
 
 <h2> 🖐🏻 Connect with me</h2>
 
-<a href="https://www.youtube.com/@BerkayYildirim-BY" target="_blank">
-<img src="https://i.imgur.com/npm9IOb.png" width="22px" alt="YouTube logo">
-</a>
 
 <a href="https://www.linkedin.com/in/berkayyildirim44/" target="_blank">
 <img src="https://i.imgur.com/AmJua6b.png" width="22px" alt="LinkedIn logo">
 </a>
-<a href="https://x.com/berkayildirimx" target="_blank">
-<img src="https://i.imgur.com/a1V38f9.png" width="22px" alt="Twitter logo">
