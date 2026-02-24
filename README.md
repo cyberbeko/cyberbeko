@@ -1,4 +1,8 @@
-<h1>Hey, I'm Berkay! <br/><a href="https://github.com/cyberbeko">JR.Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/berkayyildirim44/">Application Technician</a>
+<h1>Hey, I'm Berkay! 
+  <br/><a href="https://github.com/cyberbeko">Cybersecurity Analyst</a> 
+  <br/><a href="https://github.com/cyberbeko">JR.AI Engineer</a> 
+
+  <a href="https://www.linkedin.com/in/berkayyildirim44/">Application Technician</a>
 
   
   <h2>🧑🏻‍💻My AI Projects:</h2>
