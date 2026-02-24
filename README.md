@@ -1,6 +1,6 @@
 <h1>Hey, I'm Berkay! 
   <br/><a href="https://github.com/cyberbeko">Cybersecurity Analyst</a> 
-  <br/><a href="https://github.com/cyberbeko">JR.AI Engineer</a> 
+  <br/><a href="https://github.com/cyberbeko">JR. AI Engineer</a> 
 
   <a href="https://www.linkedin.com/in/berkayyildirim44/">Application Technician</a>
 
