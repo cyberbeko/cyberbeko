@@ -1,8 +1,5 @@
 <h1>Hey, I'm Berkay! 
-  <br/><a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Analyst</a> 
-  <br/><a href="https://www.linkedin.com/in/berkayyildirim44/">JR. AI Engineer</a> 
-
-  <a href="https://www.linkedin.com/in/berkayyildirim44/">Application Technician</a>
+  <br/><a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Professional</a> 
 
   
   <h2>🧑🏻‍💻My AI Projects:</h2>
