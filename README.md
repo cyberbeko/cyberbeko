@@ -2,13 +2,13 @@
   <br/><a href="https://www.linkedin.com/in/berkayyildirim44/">Cybersecurity Professional</a> 
 
   
-  <h2>🧑🏻‍💻My AI Projects:</h2>
-🏜️ Berkay Tank CTF 🚩A 3D Desert Sandbox experience powered by Neural Network AI.
-You can also play here!
+  <h2>🧑🏻‍💻My AI Practical Projects:</h2>
 
-[Berkay Tank CTF — Desert Sandbox with Neural Network AI](https://github.com/cyberbeko/Tank-CTF.git)
+  Tank CTF 🚩A 3D Desert Sandbox experience powered by Neural Network AI.
+
+  [Tank CTF — Desert Sandbox with Neural Network AI](https://github.com/cyberbeko/Tank-CTF.git)
   
-  <h2>🧑🏻‍💻My Cybersecurity Projects:</h2>
+  <h2>🧑🏻‍💻My Cybersecurity Practical Projects:</h2>
 
 - <b>ARP Spoofing</b>
   - [Bettercap-Network-Spoofing-Project-Education](https://github.com/cyberbeko/Bettercap-Network-Spoofing-Project.git)
